@@ -2,6 +2,7 @@
 #include "Team.hpp"
 #include <stdexcept>
 #include <algorithm>
+#include <limits>
 
 namespace ariel {
     // Constructor for Team class that takes a Character* argument
